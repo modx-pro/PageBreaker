@@ -1,0 +1,17 @@
+.pagebreaker {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.pagebreaker .pb_link_prev {
+	padding-right: 10px;
+}
+.pagebreaker .pb_link_next,
+.pagebreaker .pb_link_begin {
+	padding-left: 10px;
+}
+
+.pagebreaker .pb_page_current,
+.pagebreaker .pb_page_total {
+	font-weight: bold;
+}

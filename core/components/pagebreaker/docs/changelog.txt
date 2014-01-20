@@ -1,0 +1,15 @@
+Changelog for PageBreaker.
+
+1.2.0-rc
+==============
+- Works with cached pages.
+- Auto install and remove of TinyMCE (TypoMCE) plugin.
+- Lexicons in editor and frontend.
+- Supported any urls of source page.
+- Supported any $_GET parameters.
+- Ajax mode with HistoryAPI.
+- System settings for change splitter and page_var.
+
+1.1.1-pl
+==============
+- Initial release.
